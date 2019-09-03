@@ -4,11 +4,11 @@
 This lab introduces how to perform categorical data analysis in Prism 8.
 
 #### Please click on the links below to view and download the instructions: 
-- [Instructions](https://nih.sharepoint.com/:b:/s/GRP-NIAID-BioInformatics/SSS/ESXEWefFF8xHtsgD4key29gByaFNZBmP86pTib3-PmJhhQ?e=h7BsPv)
+- [Instructions](https://nih.sharepoint.com/:b:/r/sites/GRP-NIAID-BioInformatics/SSS/SharedWithNIH/RML%20Workshop/Prism8/6.%20Categorical%20data%20analysis.pdf?csf=1&e=oWxkLe)
 
 ### Objectives:
 1. Creating contingency table
-2. Relative risk, odds ratio calculation
+2. Sensitivity and specificity calculation
 3. Categorical data statistical testing
 
 ### Conclusion:

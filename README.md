@@ -11,7 +11,7 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 
 ### Workshop information
 - Location: A/322, Rocky Mountain Laboratories, Hamilton, Montana, United States
-- Time: Tuesday, September 10, 2019, 1:00 PM - 3:00 PM [EST]
+- Time: Tuesday, September 10, 2019, 1:00 PM - 3:00 PM [MDT]
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) and Jingwen Gu (jingwen.gu@nih.gov)
 - [bioinformatics @NIAID](https://bioinformatics.niaid.nih.gov/) - BCBB website with training materials, apps, and the services we provide.
 - [Suggest a statistical class!](https://www.surveymonkey.com/r/N5KXX78) Fill the survey and suggest the statistical topics you would like to learn

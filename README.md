@@ -1,4 +1,4 @@
-## Hands-on Introduction to Statistics and Visualization using Prism 8
+## Hands-on Statistics and Visualization using Prism 8
 
 Please feel free to contact us (bioinformatics@niaid.nih.gov) if you have any question or suggestion. 
 
@@ -10,8 +10,6 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 - If install Prism 8 on personal desktops/laptops, download and install Prism 30-day free trial at [Prism Free Trial](https://www.graphpad.com/demos/)
 
 ### Workshop information
-- Location: Building 50, Room 6334, Bethesda, MD, 20889
-- Time: Monday, October 7, 2019, 1:00 PM - 3:00 PM [EDT]
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) and Jingwen Gu (jingwen.gu@nih.gov)
 - [bioinformatics @NIAID](https://bioinformatics.niaid.nih.gov/) - BCBB website with training materials, apps, and the services we provide.
 - Email bioinformatics@niaid.nih.gov if you any questions about your particular data or project

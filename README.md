@@ -14,7 +14,6 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 - Time: Tuesday, September 10, 2019, 1:00 PM - 3:00 PM [MDT]
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) and Jingwen Gu (jingwen.gu@nih.gov)
 - [bioinformatics @NIAID](https://bioinformatics.niaid.nih.gov/) - BCBB website with training materials, apps, and the services we provide.
-- [Suggest a statistical class!](https://www.surveymonkey.com/r/N5KXX78) Fill the survey and suggest the statistical topics you would like to learn
 - Email bioinformatics@niaid.nih.gov if you any questions about your particular data or project
 
 ### Lab Materials

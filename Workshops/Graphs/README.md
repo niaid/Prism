@@ -11,7 +11,7 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 
 ### Workshop information
 - Location: Building 50, Room 6334, Bethesda, MD, 20889
-- Time: Monday, October 7, 2019, 1:00 PM - 3:00 PM [EDT]
+- Time: Monday, October 7, 2019, 1:00 PM - 2:30 PM [EDT]
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) 
 - Email bioinformatics@niaid.nih.gov if you any questions about your particular data or project
 

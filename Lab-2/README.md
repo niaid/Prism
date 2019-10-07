@@ -4,8 +4,8 @@
 This lab shows how to do some basic visualization in Prism 8.
 
 #### Please click on the links below to view and download the instructions and datasets: 
-- [Instructions](https://nih.sharepoint.com/:b:/s/GRP-NIAID-BioInformatics/SSS/EeHa6BzhvrpGpvGDm8H0pysBj-1SZa925KiOSy8xeAQEeg?e=8ftDHO)
-- [Datasets](https://nih.sharepoint.com/:u:/s/GRP-NIAID-BioInformatics/SSS/ETpn7HXyrMZEp-HlfN7Nt2oB-8o2Y2Tv1T5UKnWnscdhLQ?e=va8Qb3)
+- [Instructions](https://nih.sharepoint.com/:b:/s/GRP-NIAID-BioInformatics/SSS/EXcytml46oxHuVRKcY8QN6AB7CL-ceVkPLv0EPWhyE9bjg?e=ljzstc)
+- [Datasets](https://nih.sharepoint.com/:u:/s/GRP-NIAID-BioInformatics/SSS/EabSxAHowD9CqKvtgN82pPsBDKuvJiHorrDbTaDLp4aDMg?e=VFNvdz)
 
 ### Objectives:
 1.  Creating Graphs

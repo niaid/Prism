@@ -14,6 +14,7 @@ Specific topic include the following: unpaired t-test, paired t-test, ordinary o
 Pre-Requirements: Ideally attendees will have basic familiarity with Prism and background knowledge of Statistics, for example, how to develop hypothesis, what is normal distribution, p-value and etc. However, this is not required, if you are interested in this topic, please don’t hesitate to join us!
 
 ## Useful material
+- [Previous workshop: Training material for Prism 8)(https://github.com/niaid/Prism) Each lab includes manual of a specific topic in Prism.
 - [Previous workshop: Statistical testing](https://github.com/niaid/Statistical-Testing) 
 - [Previous workshop: Categorical data analysis](https://github.com/niaid/Categorical-data-analysis)
 - [Previous workshop: Customize your graph in Prism](https://github.com/niaid/Prism/tree/master/Workshops/Graphs) 

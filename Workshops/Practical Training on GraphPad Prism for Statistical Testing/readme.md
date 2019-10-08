@@ -2,7 +2,7 @@
 
 ### Workshop Information
 - Location: Building 50, Room 6334, Bethesda, MD, 20889
-- Time: Wednesday, October 9, 2019, 1:00 PM - 2:30 PM [EDT]
+- Time: Wednesday, October 9, 2019, 1:00 PM - 3:00 PM [EDT]
 - Instructor: Jingwen Gu (jingwen.gu@nih.gov) 
 - Send email bioinformatics@niaid.nih.gov for science support
 - After workshop, we will have half to one hour Q&A session. Please feel free to bring your own data/question regarding statistics or visualization using Prism.

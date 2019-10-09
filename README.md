@@ -1,4 +1,4 @@
-## Hands-on Statistics and Visualization using Prism 8
+## BCBB GraphPad Hands-on Labs
 
 Please feel free to contact us (bioinformatics@niaid.nih.gov) if you have any question or suggestion. 
 

@@ -6,8 +6,9 @@ Please feel free to contact us (bioinformatics@niaid.nih.gov) if you have any qu
 GraphPad Prism is a versatile statistics tool for scientists. You could enter data into tables that are structured for scientific research and guide you to statistical analyses that streamline your research workflow. Besides, Prism offers countless ways to customize your graphs, from color schemes to how you organize data. It help you gain insights and guidance at every step, collaborate with colleagues, receive feedback from peers, and share your research with the world. 
 
 ### How to install Prism 8?
-- If install Prism 8 on NIH desktops/laptops, install Prism 8 via NIH Self Service. [How to install Prism 8](https://github.com/niaid/Prism/blob/master/Lab-0/0.How%20to%20Install%20Prism%208.pdf)
-- If install Prism 8 on personal desktops/laptops, download and install Prism 30-day free trial at [Prism Free Trial](https://www.graphpad.com/demos/)
+- [GraphPad Prism](http://inside.niaid.nih.gov/topic/IT/support/software/Pages/prism.aspx) is available for NIAID users at no cost. The latest version of Prism can be installed via [Windows Software Center](http://inside.niaid.nih.gov/topic/IT/support/software/Pages/RAPInstallation.aspx) and [Mac Self Service](http://inside.niaid.nih.gov/topic/IT/support/software/Pages/ScientificSoftwareInstallationSelfService.aspx) on NIAID computers.
+- If you have any question regarding the license for GraphPad Prism, please send email to scienceapps@niaid.nih.gov or Burke Squires (Richard.squires@nih.gov)
+
 
 ### Workshop information
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) and Jingwen Gu (jingwen.gu@nih.gov)

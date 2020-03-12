@@ -1,7 +1,7 @@
 ## Practical Training on GraphPad Prism for Statistical Testing
 
 ### Workshop Information
-- Location: Building 50, Room 6334, Bethesda, MD, 20889
+- Webniar: https://meet.niaid.nih.gov/jingwen.gu/6675NEPH
 - Time: Monday, March 16, 2019, 1:00 PM - 3:00 PM [EST]
 - Instructor: Jingwen Gu (jingwen.gu@nih.gov) 
 - Send email bioinformatics@niaid.nih.gov for science support

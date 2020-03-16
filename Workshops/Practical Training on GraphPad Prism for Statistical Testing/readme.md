@@ -1,7 +1,7 @@
 ## Practical Training on GraphPad Prism for Statistical Testing
 
 ### Workshop Information
-- Webniar
+- Webinar
 - Time: Monday, March 16, 2019, 1:00 PM - 3:00 PM [EST]
 - Instructor: Jingwen Gu (jingwen.gu@nih.gov) 
 - Send email bioinformatics@niaid.nih.gov for science support

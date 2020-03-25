@@ -2,7 +2,7 @@
 
 ### Workshop Information
 - Webinar
-- Time: Monday, March 16, 2019, 1:00 PM - 3:00 PM [EST]
+- Time: Monday, March 26, 2019, 10:00 AM - 11:00 AM [EST]
 - Instructor: Jingwen Gu (jingwen.gu@nih.gov) 
 - Send email bioinformatics@niaid.nih.gov for science support
 - After workshop, we will have half to one hour Q&A session. Please feel free to bring your own data/question regarding statistics or visualization using Prism.

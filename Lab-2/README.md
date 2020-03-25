@@ -8,10 +8,10 @@ This lab shows how to do some basic visualization in Prism 8.
 - [Datasets](https://nih.sharepoint.com/:u:/s/GRP-NIAID-BioInformatics/SSS/EabSxAHowD9CqKvtgN82pPsBDKuvJiHorrDbTaDLp4aDMg?e=VFNvdz)
 
 ### Objectives:
-1.  Creating Graphs
-2.  Eight ways to change a graph
-3.	Rotating, flipping, reversing
-4.	Changing a graph’s shape and size
+1.	How to create graphs in Prism 
+2.	How to change a graph
+3.	Breaking Y axis into two segments
+4.	Graphing Example: XY plots – Nonlinear curve fitting
 5.	Exporting images from Prism
 
 ### Conclusion:

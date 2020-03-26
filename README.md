@@ -20,7 +20,7 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 - [Lab-1](https://github.com/niaid/Prism/tree/master/Lab-1) - This lab introduces how to create and edit data tables in Prism 8. 
 - [Lab-2](https://github.com/niaid/Prism/tree/master/Lab-2) - This lab shows how to do some basic visualization in Prism 8. 
 - [Lab-3](https://github.com/niaid/Prism/tree/master/Lab-3) - This lab discusses how to do descriptive statistics in Prism 8. 
-- [Lab-4](https://github.com/niaid/Prism/tree/master/Lab-4) - This lab introduces how to do statistical testing in Prism 8. More details of this lab will be included in the [Statistical Testing](https://github.com/niaid/ACE/tree/master/Statistical%20Testing) workshop. 
+- [Lab-4](https://github.com/niaid/Prism/tree/master/Lab-4) - This lab introduces how to do statistical testing in Prism 8. More details of this lab will be included in the [Statistical Testing](https://github.com/niaid/Statistical-Testing) workshop. 
 - [Lab-5](https://github.com/niaid/Prism/tree/master/Lab-5) - This lab introduces how to do survival analysis in Prism 8. 
 - [Lab-6](https://github.com/niaid/Prism/tree/master/Lab-6) - This lab introduces how to perform categorical data analysis in Prism 8.
 - [Lab-7](https://github.com/niaid/Prism/tree/master/Lab-7) - This lab introduces how to perform regression and curve fitting in Prism 8. 

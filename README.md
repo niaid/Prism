@@ -14,6 +14,11 @@ GraphPad Prism is a versatile statistics tool for scientists. You could enter da
 - Presenter: Qinlu Wang (qinlu.wang@nih.gov) and Jingwen Gu (jingwen.gu@nih.gov)
 - [bioinformatics @NIAID](https://bioinformatics.niaid.nih.gov/) - BCBB website with training materials, apps, and the services we provide.
 - Email bioinformatics@niaid.nih.gov if you any questions about your particular data or project
+- Recorded Videos: 
+
+  [Customizing Your Graphs using GraphPad Prism 8 - Part I](https://www.youtube.com/watch?v=kdTt0DG8Kdw) 
+  
+  [Customizing Your Graphs using GraphPad Prism 8 - Part II](https://www.youtube.com/watch?v=iKC984eNOdw)
 
 ### Lab Materials
 - [Lab-0](https://github.com/niaid/Prism/tree/master/Lab-0) - This lab introduces how to install Prism 8 on Mac. 
